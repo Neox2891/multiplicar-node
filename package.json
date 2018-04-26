@@ -1,0 +1,15 @@
+{
+  "name": "02-bases-node",
+  "version": "1.0.0",
+  "description": "Este es una aplicación de linea de comando!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Néstor Estrada",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.2.1",
+    "yargs": "^11.0.0"
+  }
+}
